@@ -1,5 +1,5 @@
 # Fabflix - an online movie shopping website 
-### built for Projects in Database and Web Application
+### Web Application with JDBC
 
 **Description:**
 - Browse movies, stars by title/name or year
